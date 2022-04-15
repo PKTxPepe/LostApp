@@ -33,6 +33,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     LostAppTheme {
-        Greeting("Android")
+        Greeting("Fyrek and xPepe")
     }
 }
